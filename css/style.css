@@ -888,13 +888,110 @@ a:hover {
   }
 }
 
+/* Data Safety & Compliance Tables */
+.data-table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+  margin: 24px 0;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-light);
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  font-size: 0.9rem;
+}
+
+.data-table th {
+  background: var(--bg-subtle);
+  color: #ffffff;
+  padding: 14px 16px;
+  font-weight: 700;
+  border-bottom: 1px solid var(--border-light);
+  white-space: nowrap;
+}
+
+.data-table td {
+  padding: 14px 16px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  color: #cbd5e1;
+  vertical-align: middle;
+}
+
+.data-table tr:last-child td {
+  border-bottom: none;
+}
+
+.data-table tr:hover td {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.badge-pill-yes {
+  background: rgba(16, 185, 129, 0.15);
+  color: var(--accent-emerald);
+  border: 1px solid rgba(16, 185, 129, 0.3);
+  padding: 3px 10px;
+  border-radius: var(--radius-full);
+  font-weight: 700;
+  font-size: 0.8rem;
+  display: inline-block;
+}
+
+.badge-pill-no {
+  background: rgba(244, 63, 94, 0.15);
+  color: #fda4af;
+  border: 1px solid rgba(244, 63, 94, 0.3);
+  padding: 3px 10px;
+  border-radius: var(--radius-full);
+  font-weight: 700;
+  font-size: 0.8rem;
+  display: inline-block;
+}
+
+.qa-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-md);
+  padding: 20px 24px;
+  margin-bottom: 16px;
+}
+
+.qa-question {
+  font-weight: 700;
+  color: #fff;
+  font-size: 1rem;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.qa-answer {
+  color: var(--accent-secondary);
+  font-weight: 600;
+  font-size: 0.95rem;
+  background: rgba(6, 182, 212, 0.1);
+  padding: 8px 14px;
+  border-radius: var(--radius-sm);
+  display: inline-block;
+  margin-top: 4px;
+}
+
+.qa-detail {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  margin-top: 6px;
+}
+
 /* Print Styles for Legal Documents */
 @media print {
   body {
     background: #ffffff !important;
     color: #000000 !important;
   }
-  .navbar, .footer, .legal-play-banner, .btn, .dmca-form-card {
+  .navbar, .footer, .legal-play-banner, .btn, .dmca-form-card, .qa-card {
     display: none !important;
   }
   .legal-container {
@@ -908,3 +1005,4 @@ a:hover {
     color: #000000 !important;
   }
 }
+
