@@ -25,7 +25,7 @@
           <li><a href="../../index.html" class="nav-link">Inicio</a></li>
           <li><a href="../../catcode-privacy.html" class="nav-link">CatCode APK Studio</a></li>
           <li><a href="dmca.html" class="nav-link">Aviso DMCA</a></li>
-          <li><a href="#play-console-guide" class="nav-badge-link">Guía Play Console</a></li>
+          <li><a href="../../legal/index.html" class="nav-badge-link">Directorio Legal</a></li>
         </ul>
       </nav>
     </div>
@@ -223,118 +223,6 @@
         <p style="margin-bottom: 0;"><strong>Sitio web oficial:</strong> <a href="https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/">Karagato Studios en GitHub</a></p>
       </div>
 
-      <!-- Sección Especial: Guía para Google Play Console -->
-      <section id="play-console-guide" style="margin-top: 50px; padding-top: 30px; border-top: 2px dashed rgba(99, 102, 241, 0.4);">
-        <div style="background: rgba(99, 102, 241, 0.1); border: 1px solid rgba(99, 102, 241, 0.3); border-radius: var(--radius-md); padding: 20px; margin-bottom: 24px;">
-          <h2 style="margin: 0 0 8px 0; border: none; font-size: 1.35rem; color: #fff; display: flex; align-items: center; gap: 10px;">
-            <span>📋</span> GUÍA PARA GOOGLE PLAY CONSOLE (Formulario "Seguridad de los datos")
-          </h2>
-          <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 0;">
-            Cuando vayas a publicar tu app en la Google Play Console, te pedirán rellenar el cuestionario de Seguridad de los datos (<em>Data Safety</em>). Aquí tienes las respuestas exactas que debes seleccionar:
-          </p>
-        </div>
-
-        <h3>1. Recopilación y uso de datos</h3>
-        <div class="qa-card">
-          <div class="qa-question">
-            <span>❓</span> ¿Tu aplicación recopila o comparte alguno de los tipos de datos de usuario obligatorios?
-          </div>
-          <div>👉 Selecciona: <span class="qa-answer">Sí</span></div>
-        </div>
-
-        <div class="qa-card">
-          <div class="qa-question">
-            <span>❓</span> ¿Todos los datos de usuario recopilados por tu aplicación se cifran en tránsito?
-          </div>
-          <div>👉 Selecciona: <span class="qa-answer">Sí</span></div>
-          <div class="qa-detail">(Firebase utiliza conexiones seguras HTTPS/TLS).</div>
-        </div>
-
-        <div class="qa-card">
-          <div class="qa-question">
-            <span>❓</span> ¿Ofreces a los usuarios un modo de solicitar que se eliminen sus datos?
-          </div>
-          <div>👉 Selecciona: <span class="qa-answer">Sí</span></div>
-          <div class="qa-detail">(A través del correo oficial karagatostudios@gmail.com o el botón de eliminar cuenta en la app).</div>
-        </div>
-
-        <h3>2. Tipos de Datos a Declarar</h3>
-        <div class="data-table-wrapper">
-          <table class="data-table">
-            <thead>
-              <tr>
-                <th>Categoría de Datos</th>
-                <th>Tipo Específico</th>
-                <th>¿Se recopila?</th>
-                <th>¿Se comparte?</th>
-                <th>Finalidad principal</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td><strong>Información personal</strong></td>
-                <td>Dirección de correo electrónico</td>
-                <td><span class="badge-pill-yes">Sí</span></td>
-                <td><span class="badge-pill-no">No</span></td>
-                <td>Administración de cuentas / Registro de usuario.</td>
-              </tr>
-              <tr>
-                <td><strong>Información personal</strong></td>
-                <td>Nombre / Nombre de usuario (Alias)</td>
-                <td><span class="badge-pill-yes">Sí</span></td>
-                <td><span class="badge-pill-no">No*</span></td>
-                <td>Funcionalidad de la aplicación (perfil público en la comunidad; no se comparte con terceros comerciales).</td>
-              </tr>
-              <tr>
-                <td><strong>Fotos y vídeos</strong></td>
-                <td>Fotos / Sprites / Archivos multimedia</td>
-                <td><span class="badge-pill-yes">Sí</span></td>
-                <td><span class="badge-pill-no">No</span></td>
-                <td>Funcionalidad de la aplicación (cartuchos y sprites que el usuario publica voluntariamente).</td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-
-        <h3>3. Preguntas de Detalle sobre el Correo Electrónico</h3>
-        <p style="color: var(--text-muted); font-size: 0.95rem;">
-          Cuando elijas <em>Dirección de correo electrónico</em>, la Play Console te preguntará:
-        </p>
-
-        <div class="qa-card">
-          <div class="qa-question">
-            <span>❓</span> ¿Estos datos se recopilan, se comparten o ambas cosas?
-          </div>
-          <div>👉 Selecciona: <span class="qa-answer">Se recopilan (Recogidos)</span></div>
-        </div>
-
-        <div class="qa-card">
-          <div class="qa-question">
-            <span>❓</span> ¿Estos datos se procesan de forma efímera?
-          </div>
-          <div>👉 Selecciona: <span class="qa-answer">No</span></div>
-          <div class="qa-detail">(Se guardan en Firebase para mantener la sesión del usuario).</div>
-        </div>
-
-        <div class="qa-card">
-          <div class="qa-question">
-            <span>❓</span> ¿La recopilación de estos datos es obligatoria para la aplicación o los usuarios pueden decidir si quieren que se recopilen?
-          </div>
-          <div>👉 Selecciona: <span class="qa-answer">Los usuarios pueden decidir si se recopilan</span></div>
-          <div class="qa-detail">(Los usuarios pueden usar el estudio sin cuenta en modo offline; solo se requiere correo si desean ingresar a la Comunidad).</div>
-        </div>
-
-        <div class="qa-card">
-          <div class="qa-question">
-            <span>❓</span> ¿Por qué se recopilan estos datos?
-          </div>
-          <div>
-            👉 Marca: <span class="qa-answer">Administración de cuentas (Account management)</span> y <span class="qa-answer">Prevención de fraudes, seguridad y cumplimiento normativo</span>
-          </div>
-        </div>
-
-      </section>
-
     </article>
 
   </main>
@@ -349,7 +237,7 @@
         <div class="footer-links" style="flex-direction: row; gap: 20px;">
           <a href="../../index.html">Inicio</a>
           <a href="dmca.html">Aviso DMCA</a>
-          <a href="#play-console-guide">Guía Google Play</a>
+          <a href="../../legal/index.html">Directorio Legal</a>
         </div>
       </div>
     </div>
