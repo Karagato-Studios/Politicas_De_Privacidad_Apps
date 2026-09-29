@@ -398,6 +398,16 @@ a:hover {
   fill: #fff;
 }
 
+.app-logo-catcode {
+  background: linear-gradient(135deg, #10b981, #06b6d4);
+}
+
+.app-logo-catcode svg {
+  width: 34px;
+  height: 34px;
+  fill: #fff;
+}
+
 .app-title {
   font-size: 1.4rem;
   font-weight: 700;
