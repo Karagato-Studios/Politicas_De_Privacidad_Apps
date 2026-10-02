@@ -408,6 +408,16 @@ a:hover {
   fill: #fff;
 }
 
+.app-logo-qr {
+  background: linear-gradient(135deg, #3b82f6, #6366f1);
+}
+
+.app-logo-qr svg {
+  width: 34px;
+  height: 34px;
+  fill: #fff;
+}
+
 .app-title {
   font-size: 1.4rem;
   font-weight: 700;

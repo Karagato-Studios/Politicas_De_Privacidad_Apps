@@ -31,6 +31,17 @@ Una vez habilitado GitHub Pages en este repositorio, estos son los enlaces direc
 
 ---
 
+### 3. QR and Barcode Scanner
+*Lector y generador de códigos QR y códigos de barras de alto rendimiento, procesamiento 100% on-device (Google ML Kit / ZXing), base de datos local SQLite y cero recopilación de datos personales.*
+
+| Documento | Enlace en Vivo para Google Play Console |
+| :--- | :--- |
+| **Privacy Policy (Recomendado para Play Console)** | `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/qr-scanner-privacy.html` |
+| **Privacy Policy (Ruta de App)** | `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/apps/qr-barcode-scanner/privacy.html` |
+| **Ficha Técnica de la Aplicación** | `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/apps/qr-barcode-scanner/` |
+
+---
+
 ### Portales Generales
 * **Página Principal del Estudio:** `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/`
 * **Directorio Legal General:** `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/legal/`

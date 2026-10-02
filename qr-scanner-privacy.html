@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy for QR and Barcode Scanner | Karagato Studios</title>
+  <meta name="description" content="Official Privacy Policy for QR and Barcode Scanner mobile application for Android. Published by Karagato Studios.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Institutional Header -->
+  <header class="navbar">
+    <div class="container nav-inner">
+      <a href="index.html" class="nav-brand">
+        <div class="brand-icon">
+          <svg viewBox="0 0 24 24">
+            <path d="M21 6H3c-1.1 0-2 .9-2 2v8c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-10 7H8v3H6v-3H3v-2h3V8h2v3h3v2zm4.5 2c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm4-3c-.83 0-1.5-.67-1.5-1.5S18.67 9 19.5 9s1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"/>
+          </svg>
+        </div>
+        <span>Karagato Studios</span>
+      </a>
+      <nav>
+        <ul class="nav-links">
+          <li><a href="index.html" class="nav-link">Inicio</a></li>
+          <li><a href="catcode-privacy.html" class="nav-link">CatCode APK Studio</a></li>
+          <li><a href="privacy.html" class="nav-link">Retro Game Studio</a></li>
+          <li><a href="qr-scanner-privacy.html" class="nav-link active">QR & Barcode Scanner</a></li>
+          <li><a href="legal/index.html" class="nav-link">Directorio Legal</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Legal Document Container -->
+  <main class="legal-container" style="padding-top: 50px; padding-bottom: 80px;">
+    
+    <div class="legal-page-header">
+      <div class="legal-breadcrumbs">
+        <a href="index.html">Inicio</a>
+        <span>&rsaquo;</span>
+        <a href="legal/index.html">Legal</a>
+        <span>&rsaquo;</span>
+        <span>QR and Barcode Scanner</span>
+      </div>
+
+      <h1 class="legal-title">Privacy Policy for QR and Barcode Scanner</h1>
+      
+      <div class="legal-meta">
+        <div class="legal-meta-item">
+          <strong>Effective Date:</strong> October 2, 2026
+        </div>
+        <div class="legal-meta-item">
+          <strong>Developer:</strong> Karagato Studios
+        </div>
+        <div class="legal-meta-item">
+          <strong>Contact:</strong> Official Google Play developer support channels (<a href="mailto:karagatostudios@gmail.com">karagatostudios@gmail.com</a>)
+        </div>
+      </div>
+    </div>
+
+    <!-- Official Privacy Policy Content -->
+    <article class="legal-content">
+
+      <p>
+        At Karagato Studios, we respect your privacy and are committed to protecting it. This Privacy Policy explains our practices regarding data processing in the <strong>QR and Barcode Scanner</strong> mobile application for Android.
+      </p>
+
+      <h2>1. 100% On-Device Processing (Privacy First)</h2>
+      <p>
+        Your privacy is our utmost priority. QR and Barcode Scanner performs all core operations locally on your physical device:
+      </p>
+      <ul>
+        <li><strong>Camera feed & scanning:</strong> Processed entirely in real-time memory via Google ML Kit on-device models and ZXing algorithms. No video streams, photos, or decoded symbols are ever uploaded to cloud servers.</li>
+        <li><strong>Barcode generation:</strong> Barcode images (1D and 2D) are rendered entirely offline on your device.</li>
+        <li><strong>Photo scanning:</strong> When you voluntarily select an image from your gallery, the file is read locally using the Android system photo picker. No media files are transmitted off your device.</li>
+      </ul>
+
+      <h2>2. Zero Personal Data Collection</h2>
+      <p>
+        We do not collect, harvest, store, transmit, or sell any personally identifiable information (PII). Specifically:
+      </p>
+      <ul>
+        <li>We do not collect names, email addresses, phone numbers, or passwords.</li>
+        <li>We do not collect or track your device location history or IP address.</li>
+        <li>We do not collect device identifiers (such as Android Advertising ID / GAID, IMEI, or MAC address).</li>
+        <li>We do not integrate third-party advertising SDKs or analytics trackers that profile user behavior.</li>
+      </ul>
+
+      <h2>3. Local SQLite Storage (User Controlled)</h2>
+      <p>
+        Your scan history, custom-created codes, and favorite items are stored strictly within a private SQLite database managed by Android Room on your local device filesystem.
+      </p>
+      <ul>
+        <li>This data is never synchronized with remote servers or third parties.</li>
+        <li>You maintain 100% control: you can delete individual records, wipe the entire history, or disable history saving at any moment in the Settings menu.</li>
+        <li>Uninstalling the application completely deletes all locally stored history and preferences.</li>
+      </ul>
+
+      <h2>4. Device Permissions & Purpose</h2>
+      <ul>
+        <li><strong>Camera (<code>android.permission.CAMERA</code>):</strong> Required exclusively to display the camera preview and decode QR codes and barcodes in real-time. Camera access terminates immediately upon exiting the scan screen.</li>
+        <li><strong>Vibration (<code>android.permission.VIBRATE</code>):</strong> Provides subtle haptic feedback when a barcode is successfully detected.</li>
+        <li><strong>Internet (<code>android.permission.INTERNET</code>):</strong> Used solely when you choose to open a scanned web link in your external browser or via the optional in-app web view.</li>
+        <li><strong>Location (<code>ACCESS_FINE_LOCATION</code> & <code>ACCESS_COARSE_LOCATION</code>):</strong> Requested only if you explicitly choose "Use current location" when generating a Geolocation QR code, or when reading your connected Wi-Fi network name (SSID). Location coordinates are processed ephemerally on-device and are never transmitted to external servers.</li>
+        <li><strong>Wi-Fi State (<code>android.permission.ACCESS_WIFI_STATE</code>):</strong> Used only to detect the SSID of your currently connected Wi-Fi network when generating a Wi-Fi QR code.</li>
+      </ul>
+      <p>
+        The application does <strong>NOT</strong> request or require broad storage permissions (<code>READ_MEDIA_IMAGES</code> or <code>READ_EXTERNAL_STORAGE</code>). It utilizes Android's secure system picker.
+      </p>
+
+      <h2>5. Third-Party Websites & External Links</h2>
+      <p>
+        When you scan a QR code containing an external URL and choose to visit it, you will navigate to an external website. External destinations are governed by their own respective privacy policies and terms. We encourage users to verify URLs before providing sensitive credentials.
+      </p>
+
+      <h2>6. Children's Privacy</h2>
+      <p>
+        Our application does not knowingly collect or solicit personal information from children under the age of 13. Since no personal data is collected from any user, the application is safe for general audiences.
+      </p>
+
+      <h2>7. Changes to This Policy</h2>
+      <p>
+        We may update our Privacy Policy from time to time to reflect updates in Android platform standards or regulatory requirements. Any updates will be posted on this page with an updated effective date.
+      </p>
+
+      <h2>8. Contact Us</h2>
+      <p>
+        If you have questions or suggestions regarding this Privacy Policy, please contact Karagato Studios via our official developer contact details on Google Play.
+      </p>
+      <div class="legal-summary-box" style="border-left-color: var(--accent-primary);">
+        <p style="margin-bottom: 6px;"><strong>Developer:</strong> Karagato Studios</p>
+        <p style="margin-bottom: 0;"><strong>Support Email:</strong> <a href="mailto:karagatostudios@gmail.com">karagatostudios@gmail.com</a></p>
+      </div>
+
+    </article>
+
+  </main>
+
+  <!-- Institutional Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-bottom" style="padding-top: 0; border: none;">
+        <div>
+          &copy; <span class="current-year">2026</span> Karagato Studios. All rights reserved.
+        </div>
+        <div class="footer-links" style="flex-direction: row; gap: 20px;">
+          <a href="index.html">Inicio</a>
+          <a href="catcode-privacy.html">CatCode APK Studio</a>
+          <a href="privacy.html">Retro Game Studio</a>
+          <a href="legal/index.html">Directorio Legal</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
