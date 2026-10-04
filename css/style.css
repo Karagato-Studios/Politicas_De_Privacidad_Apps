@@ -418,6 +418,16 @@ a:hover {
   fill: #fff;
 }
 
+.app-logo-bajame {
+  background: linear-gradient(135deg, #f97316, #ef4444);
+}
+
+.app-logo-bajame svg {
+  width: 34px;
+  height: 34px;
+  fill: #fff;
+}
+
 .app-title {
   font-size: 1.4rem;
   font-weight: 700;

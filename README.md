@@ -42,6 +42,17 @@ Una vez habilitado GitHub Pages en este repositorio, estos son los enlaces direc
 
 ---
 
+### 4. Bájame Ya
+*Alarma por proximidad geográfica para transporte público y desplazamientos cotidianos, monitoreo GPS en segundo plano durante viajes activos, mapas OpenStreetMap y almacenamiento 100% local.*
+
+| Documento | Enlace en Vivo para Google Play Console |
+| :--- | :--- |
+| **Política de Privacidad (Recomendado para Play Console)** | `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/bajame-ya-privacy.html` |
+| **Política de Privacidad (Ruta de App)** | `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/apps/bajame-ya/privacy.html` |
+| **Ficha Técnica de la Aplicación** | `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/apps/bajame-ya/` |
+
+---
+
 ### Portales Generales
 * **Página Principal del Estudio:** `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/`
 * **Directorio Legal General:** `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/legal/`
