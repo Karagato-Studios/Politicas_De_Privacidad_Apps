@@ -53,8 +53,8 @@ Una vez habilitado GitHub Pages en este repositorio, estos son los enlaces direc
 
 ---
 
-### 5. Karazip
-*Herramienta avanzada de compresión, descompresión y gestión de archivos en el dispositivo, procesamiento 100% local y privado.*
+### 5. KaraZip
+*Herramienta avanzada de compresión, descompresión y gestión de archivos locales (karagatostudios.karazip), procesamiento 100% local y privado.*
 
 | Documento | Enlace en Vivo para Google Play Console |
 | :--- | :--- |
