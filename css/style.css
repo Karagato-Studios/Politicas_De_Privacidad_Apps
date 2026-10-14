@@ -428,6 +428,16 @@ a:hover {
   fill: #fff;
 }
 
+.app-logo-karazip {
+  background: linear-gradient(135deg, #06b6d4, #6366f1);
+}
+
+.app-logo-karazip svg {
+  width: 34px;
+  height: 34px;
+  fill: #fff;
+}
+
 .app-title {
   font-size: 1.4rem;
   font-weight: 700;

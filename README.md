@@ -53,6 +53,17 @@ Una vez habilitado GitHub Pages en este repositorio, estos son los enlaces direc
 
 ---
 
+### 5. Karazip
+*Herramienta avanzada de compresión, descompresión y gestión de archivos en el dispositivo, procesamiento 100% local y privado.*
+
+| Documento | Enlace en Vivo para Google Play Console |
+| :--- | :--- |
+| **Política de Privacidad (Recomendado para Play Console)** | `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/karazip-privacy.html` |
+| **Política de Privacidad (Ruta de App)** | `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/apps/karazip/privacy.html` |
+| **Ficha Técnica de la Aplicación** | `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/apps/karazip/` |
+
+---
+
 ### Portales Generales
 * **Página Principal del Estudio:** `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/`
 * **Directorio Legal General:** `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/legal/`
