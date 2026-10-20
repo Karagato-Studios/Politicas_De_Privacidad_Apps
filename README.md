@@ -64,6 +64,17 @@ Una vez habilitado GitHub Pages en este repositorio, estos son los enlaces direc
 
 ---
 
+### 6. Screen Recorder (Screen Recorder Karagato)
+*Herramienta avanzada de grabación de pantalla y audio para Android (`com.karagatostudios.screenrecorder`), procesamiento y almacenamiento 100% local en el dispositivo.*
+
+| Documento | Enlace en Vivo para Google Play Console |
+| :--- | :--- |
+| **Política de Privacidad (Recomendado para Play Console)** | `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/screen-recorder-privacy.html` |
+| **Política de Privacidad (Ruta de App)** | `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/apps/screen-recorder/privacy.html` |
+| **Ficha Técnica de la Aplicación** | `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/apps/screen-recorder/` |
+
+---
+
 ### Portales Generales
 * **Página Principal del Estudio:** `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/`
 * **Directorio Legal General:** `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/legal/`
