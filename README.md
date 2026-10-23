@@ -75,6 +75,17 @@ Una vez habilitado GitHub Pages en este repositorio, estos son los enlaces direc
 
 ---
 
+### 7. PDF Suite
+*Suite integral de herramientas y gestión de documentos PDF para Android (`com.karagatostudios.pdfsuite`), procesamiento 100% local, OCR y privacidad absoluta.*
+
+| Documento | Enlace en Vivo para Google Play Console |
+| :--- | :--- |
+| **Política de Privacidad (Recomendado para Play Console)** | `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/pdf-suite-privacy.html` |
+| **Política de Privacidad (Ruta de App)** | `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/apps/pdf-suite/privacy.html` |
+| **Ficha Técnica de la Aplicación** | `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/apps/pdf-suite/` |
+
+---
+
 ### Portales Generales
 * **Página Principal del Estudio:** `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/`
 * **Directorio Legal General:** `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/legal/`

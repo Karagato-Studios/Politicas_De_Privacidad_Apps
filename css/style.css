@@ -81,7 +81,7 @@ a:hover {
 /* Layout Utilities */
 .container {
   width: 100%;
-  max-width: 1240px;
+  max-width: 1280px;
   margin: 0 auto;
   padding: 0 24px;
 }
@@ -144,14 +144,14 @@ a:hover {
 .nav-links {
   display: flex;
   align-items: center;
-  gap: 16px;
+  gap: 13px;
   list-style: none;
 }
 
 .nav-link {
   color: var(--text-muted);
   font-weight: 500;
-  font-size: 0.88rem;
+  font-size: 0.84rem;
   transition: color var(--transition-fast);
   white-space: nowrap;
 }
@@ -444,6 +444,16 @@ a:hover {
 }
 
 .app-logo-screen-recorder svg {
+  width: 34px;
+  height: 34px;
+  fill: #fff;
+}
+
+.app-logo-pdf {
+  background: linear-gradient(135deg, #dc2626, #991b1b);
+}
+
+.app-logo-pdf svg {
   width: 34px;
   height: 34px;
   fill: #fff;
