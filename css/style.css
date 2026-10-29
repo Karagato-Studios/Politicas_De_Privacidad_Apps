@@ -459,6 +459,16 @@ a:hover {
   fill: #fff;
 }
 
+.app-logo-aerolink {
+  background: linear-gradient(135deg, #0284c7, #2563eb);
+}
+
+.app-logo-aerolink svg {
+  width: 34px;
+  height: 34px;
+  fill: #fff;
+}
+
 .app-title {
   font-size: 1.4rem;
   font-weight: 700;
