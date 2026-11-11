@@ -97,6 +97,17 @@ Una vez habilitado GitHub Pages en este repositorio, estos son los enlaces direc
 
 ---
 
+### 9. SilentClip
+*Procesamiento y edición de videos y clips multimedia bajo arquitectura Local-First, operación 100% offline en el hardware del usuario, sin conexión a internet y con estricta privacidad.*
+
+| Documento | Enlace en Vivo para Google Play Console |
+| :--- | :--- |
+| **Política de Privacidad (Recomendado para Play Console)** | `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/silentclip-privacy.html` |
+| **Política de Privacidad (Ruta de App)** | `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/apps/silentclip/privacy.html` |
+| **Ficha Técnica de la Aplicación** | `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/apps/silentclip/` |
+
+---
+
 ### Portales Generales
 * **Página Principal del Estudio:** `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/`
 * **Directorio Legal General:** `https://karagato-studios.github.io/Politicas_De_Privacidad_Apps/legal/`
